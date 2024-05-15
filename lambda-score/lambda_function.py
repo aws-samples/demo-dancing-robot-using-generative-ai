@@ -190,9 +190,13 @@ def lambda_handler(event, context):
     try:
         lambda_client = get_lambda_client(region=lambda_region)
         payload = {
-            user_id: result['score'],
-            "type": "MENT"
+            "userId": user_id,
+            "score": result['score'],
+            "type": "MENT",
+            "body": text
         }
+        print("payload: ", payload)
+        
         response = lambda_client.invoke(
             FunctionName=function_name,
             Payload=json.dumps(payload),
