@@ -1,6 +1,6 @@
 ## Demo: Robo-SoleMate
 
-We show a demo of Generative AI using Robot where the project name of demo is Robo-SoleMate.
+We show a demo of Generative AI using Robot where the project name of demo is Robo-Solemate.
 
 The overall architecture is as follows:
 
@@ -19,9 +19,13 @@ The overall architecture is as follows:
   
 ![image](./pictures/main-architecture.jpg)
 
-It is the demo introduction movie.
+It is a demo vodeo for soulmate.
 
-![image](./pictures/robo-soulmate.mp4)
+![소개 영상]([./pictures/main-architecture.jpg](https://github.com/aws-samples/demo-dancing-robot-using-generative-ai/assets/52392004/1ab97cb8-67f9-4e30-ad5a-c39369be8ebb
+))
+
+
+
 
 ### Controller
 
