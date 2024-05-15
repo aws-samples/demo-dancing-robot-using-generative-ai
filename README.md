@@ -21,7 +21,7 @@ The overall architecture is as follows:
 
 It is the demo introduction movie.
 
-![image](./pictures/robo-soulmate.jpg)
+![image](./pictures/robo-soulmate.mp4)
 
 ### Controller
 
