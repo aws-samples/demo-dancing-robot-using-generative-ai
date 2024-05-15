@@ -21,8 +21,8 @@ The overall architecture is as follows:
 
 It is a demo vodeo for soulmate.
 
-![소개 영상]([./pictures/main-architecture.jpg](https://github.com/aws-samples/demo-dancing-robot-using-generative-ai/assets/52392004/1ab97cb8-67f9-4e30-ad5a-c39369be8ebb
-))
+![소개 영상](https://github.com/aws-samples/demo-dancing-robot-using-generative-ai/assets/52392004/1ab97cb8-67f9-4e30-ad5a-c39369be8ebb)
+
 
 
 
