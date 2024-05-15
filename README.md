@@ -19,6 +19,10 @@ The overall architecture is as follows:
   
 ![image](./pictures/main-architecture.jpg)
 
+It is the demo introduction movie.
+
+![image](./pictures/robo-soulmate.jpg)
+
 ### Controller
 
 The operation of the Robot Controller according to the user's Reaction is described in [robot-controller.md](./robot-controller.md). 
