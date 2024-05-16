@@ -1,6 +1,6 @@
-## Demo: Robo-SoleMate
+## Demo: Robo-SoulMate
 
-We show a demo of Generative AI using Robot where the project name of demo is Robo-SoleMate.
+We show a demo of Generative AI using Robot where the project name of demo is Robo-SoulMate.
 
 The overall architecture is as follows:
 
