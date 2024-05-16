@@ -19,7 +19,11 @@ The overall architecture is as follows:
   
 ![image](./pictures/main-architecture.jpg)
 
-It is a demo vodeo for soulmate.
+These robots have personalities based on the 8 MBTI types and have names derived from AWS's representative services such as Lambda, SageMaker, and S3. 
+
+![image](https://github.com/aws-samples/demo-dancing-robot-using-generative-ai/assets/52392004/f005a5eb-5743-4975-8636-7c78d8b52447)
+
+It is a demo vodeo for SoulMate.
 
 https://github.com/aws-samples/demo-dancing-robot-using-generative-ai/assets/52392004/1ab97cb8-67f9-4e30-ad5a-c39369be8ebb
 
