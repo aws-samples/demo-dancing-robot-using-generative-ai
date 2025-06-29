@@ -1,4 +1,4 @@
-## Dancing Robot using Generative AI
+## Dancing Robot using Generative AI 
 
 We show a demo of Generative AI using Robot where the project name of demo is Robo-SoulMate.
 
